@@ -1,5 +1,10 @@
 # satellite-pass-planner
 
+[![tests][tests-badge]][tests-runs]
+
+[tests-badge]: https://github.com/jani-hilt/satellite-pass-planner/actions/workflows/tests.yml/badge.svg
+[tests-runs]: https://github.com/jani-hilt/satellite-pass-planner/actions/workflows/tests.yml
+
 `passplan` is a small command-line tool that predicts when a satellite is in contact
 with a ground station. For each pass it reports:
 
