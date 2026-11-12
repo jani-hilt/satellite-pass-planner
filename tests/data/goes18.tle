@@ -1,0 +1,5 @@
+# Retrieved from https://celestrak.org/NORAD/elements/gp.php?CATNR=51850&FORMAT=TLE at 2026-10-31T18:27:50 UTC.
+# Frozen copy used by the automated tests (no network).
+GOES 18                 
+1 51850U 22021A   26304.30479772  .00000093  00000+0  00000+0 0  9990
+2 51850   0.0081  53.0588 0000756 227.4781  91.8255  1.00272115  7958

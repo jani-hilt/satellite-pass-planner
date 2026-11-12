@@ -1,0 +1,19 @@
+.tle_cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# Private task description (not part of the published project)
+ylilentoskripti_pyynto.md
+.DS_Store
+
+# Plots made with the tool: the default plot folder, the repository root, and any
+# plot from the private home station wherever it is saved
+/plots/
+/*.png
+*_koti.png
+
+# Private working notes (not part of the published project)
+Radan_lasku_aloitusohje.md
+Ylilentotyokalu_GitHub_ohje.md

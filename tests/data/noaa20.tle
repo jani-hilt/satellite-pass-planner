@@ -1,0 +1,5 @@
+# Retrieved from https://celestrak.org/NORAD/elements/gp.php?CATNR=43013&FORMAT=TLE at 2026-10-31T18:38:34 UTC.
+# Frozen copy used by the automated tests (no network).
+NOAA 20 (JPSS-1)        
+1 43013U 17073A   26304.46190109  .00000036  00000+0  38107-4 0  9995
+2 43013  98.7901 242.7730 0000602 138.1059 222.0163 14.19533986463803

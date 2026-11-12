@@ -1,0 +1,5 @@
+# Retrieved from https://celestrak.org/NORAD/elements/gp.php?CATNR=42063&FORMAT=TLE at 2026-10-31T18:27:48 UTC.
+# Frozen copy used by the automated tests (no network).
+SENTINEL-2B             
+1 42063U 17013A   26304.50122483  .00000144  00000+0  71616-4 0  9990
+2 42063  98.5727  17.3265 0001136  91.9524 268.1789 14.30817359504135

@@ -1,0 +1,21 @@
+[project]
+name = "passplan"
+version = "0.1.0"
+description = "Satellite pass prediction and simple contact scheduling for one ground station"
+requires-python = ">=3.11"
+license = "MIT"
+dependencies = ["skyfield>=1.54", "sgp4>=2.26", "numpy", "matplotlib"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+# Skyfield 1.54 sets ndarray.dtype in searchlib.py, deprecated in NumPy 2.5.
+# Harmless for results; silenced so real warnings stay visible.
+filterwarnings = ["ignore:Setting the dtype on a NumPy array:DeprecationWarning:skyfield"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "N"]

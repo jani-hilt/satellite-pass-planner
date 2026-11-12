@@ -1,0 +1,5 @@
+# Retrieved from https://celestrak.org/NORAD/elements/gp.php?CATNR=40732&FORMAT=TLE at 2026-10-31T18:27:49 UTC.
+# Frozen copy used by the automated tests (no network).
+METEOSAT-11 (MSG-4)     
+1 40732U 15034A   26304.19116808  .00000060  00000+0  00000+0 0  9992
+2 40732   3.5381  70.1158 0001067  77.0549 330.3954  1.00271004  8589
